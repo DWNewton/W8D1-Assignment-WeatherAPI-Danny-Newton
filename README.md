@@ -33,7 +33,7 @@ I've set it up to handle the following potential errors:
 1. Clone the repository.
 2. Unzip the files
 3. Install the required dependencies:
-   pip install flask requests
+   `pip install flask requests`
 4. python app.py
 
 ## End Note:
