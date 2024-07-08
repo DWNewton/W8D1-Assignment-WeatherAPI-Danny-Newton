@@ -16,7 +16,7 @@ A good response should pass the following information:
   - `temperature`: Current temperature in Celsius
   - `condition`: Weather condition (e.g., sunny, cloudy, rainy)
   - `humidity`: Humidity percentage
-  - `wind_speed`: Wind speed in kph
+  - `wind_speed`: Wind speed in mph
 
 #### Errors
 
@@ -33,7 +33,7 @@ I've set it up to handle the following potential errors:
 1. Clone the repository.
 2. Unzip the files
 3. Install the required dependencies:
-   pip install flask requests
+   `pip install flask requests`
 4. python app.py
 
 ## End Note:
